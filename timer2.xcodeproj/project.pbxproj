@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		572EE3A619E05A1800793920 /* 3min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3A419E05A1800793920 /* 3min.png */; };
+		572EE3A719E05A1800793920 /* 5min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3A519E05A1800793920 /* 5min.png */; };
+		572EE3B619E05E8E00793920 /* 1hour.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3A819E05E8E00793920 /* 1hour.png */; };
+		572EE3B719E05E8E00793920 /* 10min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3A919E05E8E00793920 /* 10min.png */; };
+		572EE3B819E05E8E00793920 /* 15min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AA19E05E8E00793920 /* 15min.png */; };
+		572EE3B919E05E8E00793920 /* 20min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AB19E05E8E00793920 /* 20min.png */; };
+		572EE3BA19E05E8E00793920 /* 25min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AC19E05E8E00793920 /* 25min.png */; };
+		572EE3BB19E05E8E00793920 /* 30min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AD19E05E8E00793920 /* 30min.png */; };
+		572EE3BC19E05E8E00793920 /* 35min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AE19E05E8E00793920 /* 35min.png */; };
+		572EE3BD19E05E8E00793920 /* 40min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3AF19E05E8E00793920 /* 40min.png */; };
+		572EE3BE19E05E8E00793920 /* 45min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B019E05E8E00793920 /* 45min.png */; };
+		572EE3BF19E05E8E00793920 /* 50min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B119E05E8E00793920 /* 50min.png */; };
+		572EE3C019E05E8E00793920 /* 55min.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B219E05E8E00793920 /* 55min.png */; };
+		572EE3C119E05E8E00793920 /* O.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B319E05E8E00793920 /* O.png */; };
+		572EE3C219E05E8E00793920 /* reset.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B419E05E8E00793920 /* reset.png */; };
+		572EE3C319E05E8E00793920 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 572EE3B519E05E8E00793920 /* test.png */; };
+		578D12001A175E8D008C184D /* pon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 578D11FF1A175E8D008C184D /* pon.mp3 */; };
+		578D12081A17655F008C184D /* note.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 578D12071A17655F008C184D /* note.jpg */; };
+		579F4AB919E7E314002B151E /* 1min.png in Resources */ = {isa = PBXBuildFile; fileRef = 579F4AB819E7E314002B151E /* 1min.png */; };
+		579F4ABB19E7E664002B151E /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 579F4ABA19E7E664002B151E /* AVFoundation.framework */; };
 		57D8F60019DEA48200C1D0D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D8F5FF19DEA48200C1D0D9 /* Foundation.framework */; };
 		57D8F60219DEA48200C1D0D9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D8F60119DEA48200C1D0D9 /* CoreGraphics.framework */; };
 		57D8F60419DEA48200C1D0D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D8F60319DEA48200C1D0D9 /* UIKit.framework */; };
@@ -21,6 +41,11 @@
 		57D8F62119DEA48200C1D0D9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57D8F60319DEA48200C1D0D9 /* UIKit.framework */; };
 		57D8F62919DEA48200C1D0D9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 57D8F62719DEA48200C1D0D9 /* InfoPlist.strings */; };
 		57D8F62B19DEA48200C1D0D9 /* timer2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57D8F62A19DEA48200C1D0D9 /* timer2Tests.m */; };
+		57DF2D7A19E7F2A7009CAB4B /* tottori.png in Resources */ = {isa = PBXBuildFile; fileRef = 57DF2D7919E7F2A7009CAB4B /* tottori.png */; };
+		57F2B8DA19EA4BF60016B765 /* アイコン.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F2B8D919EA4BF60016B765 /* アイコン.png */; };
+		57FED99B19E16EA100BA33B2 /* syabobo.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FED99A19E16EA100BA33B2 /* syabobo.png */; };
+		57FED9A119E1748100BA33B2 /* aikon2.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FED9A019E1748100BA33B2 /* aikon2.png */; };
+		57FED9A319E1752C00BA33B2 /* Balloons.png in Resources */ = {isa = PBXBuildFile; fileRef = 57FED9A219E1752C00BA33B2 /* Balloons.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +59,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		572EE3A419E05A1800793920 /* 3min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3min.png; sourceTree = "<group>"; };
+		572EE3A519E05A1800793920 /* 5min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5min.png; sourceTree = "<group>"; };
+		572EE3A819E05E8E00793920 /* 1hour.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1hour.png; sourceTree = "<group>"; };
+		572EE3A919E05E8E00793920 /* 10min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10min.png; sourceTree = "<group>"; };
+		572EE3AA19E05E8E00793920 /* 15min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 15min.png; sourceTree = "<group>"; };
+		572EE3AB19E05E8E00793920 /* 20min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 20min.png; sourceTree = "<group>"; };
+		572EE3AC19E05E8E00793920 /* 25min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 25min.png; sourceTree = "<group>"; };
+		572EE3AD19E05E8E00793920 /* 30min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30min.png; sourceTree = "<group>"; };
+		572EE3AE19E05E8E00793920 /* 35min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 35min.png; sourceTree = "<group>"; };
+		572EE3AF19E05E8E00793920 /* 40min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40min.png; sourceTree = "<group>"; };
+		572EE3B019E05E8E00793920 /* 45min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 45min.png; sourceTree = "<group>"; };
+		572EE3B119E05E8E00793920 /* 50min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50min.png; sourceTree = "<group>"; };
+		572EE3B219E05E8E00793920 /* 55min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 55min.png; sourceTree = "<group>"; };
+		572EE3B319E05E8E00793920 /* O.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = O.png; sourceTree = "<group>"; };
+		572EE3B419E05E8E00793920 /* reset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reset.png; sourceTree = "<group>"; };
+		572EE3B519E05E8E00793920 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		578D11FF1A175E8D008C184D /* pon.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pon.mp3; sourceTree = "<group>"; };
+		578D12071A17655F008C184D /* note.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = note.jpg; sourceTree = "<group>"; };
+		579F4AB819E7E314002B151E /* 1min.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1min.png; sourceTree = "<group>"; };
+		579F4ABA19E7E664002B151E /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		57D8F5FC19DEA48200C1D0D9 /* timer2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timer2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57D8F5FF19DEA48200C1D0D9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		57D8F60119DEA48200C1D0D9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +98,11 @@
 		57D8F62619DEA48200C1D0D9 /* timer2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "timer2Tests-Info.plist"; sourceTree = "<group>"; };
 		57D8F62819DEA48200C1D0D9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		57D8F62A19DEA48200C1D0D9 /* timer2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = timer2Tests.m; sourceTree = "<group>"; };
+		57DF2D7919E7F2A7009CAB4B /* tottori.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tottori.png; sourceTree = "<group>"; };
+		57F2B8D919EA4BF60016B765 /* アイコン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "アイコン.png"; sourceTree = "<group>"; };
+		57FED99A19E16EA100BA33B2 /* syabobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = syabobo.png; sourceTree = "<group>"; };
+		57FED9A019E1748100BA33B2 /* aikon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aikon2.png; sourceTree = "<group>"; };
+		57FED9A219E1752C00BA33B2 /* Balloons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Balloons.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				579F4ABB19E7E664002B151E /* AVFoundation.framework in Frameworks */,
 				57D8F60219DEA48200C1D0D9 /* CoreGraphics.framework in Frameworks */,
 				57D8F60419DEA48200C1D0D9 /* UIKit.framework in Frameworks */,
 				57D8F60019DEA48200C1D0D9 /* Foundation.framework in Frameworks */,
@@ -101,6 +152,7 @@
 		57D8F5FE19DEA48200C1D0D9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				579F4ABA19E7E664002B151E /* AVFoundation.framework */,
 				57D8F5FF19DEA48200C1D0D9 /* Foundation.framework */,
 				57D8F60119DEA48200C1D0D9 /* CoreGraphics.framework */,
 				57D8F60319DEA48200C1D0D9 /* UIKit.framework */,
@@ -112,6 +164,30 @@
 		57D8F60519DEA48200C1D0D9 /* timer2 */ = {
 			isa = PBXGroup;
 			children = (
+				578D12071A17655F008C184D /* note.jpg */,
+				578D11FF1A175E8D008C184D /* pon.mp3 */,
+				57F2B8D919EA4BF60016B765 /* アイコン.png */,
+				57DF2D7919E7F2A7009CAB4B /* tottori.png */,
+				579F4AB819E7E314002B151E /* 1min.png */,
+				57FED9A219E1752C00BA33B2 /* Balloons.png */,
+				57FED9A019E1748100BA33B2 /* aikon2.png */,
+				57FED99A19E16EA100BA33B2 /* syabobo.png */,
+				572EE3A819E05E8E00793920 /* 1hour.png */,
+				572EE3A919E05E8E00793920 /* 10min.png */,
+				572EE3AA19E05E8E00793920 /* 15min.png */,
+				572EE3AB19E05E8E00793920 /* 20min.png */,
+				572EE3AC19E05E8E00793920 /* 25min.png */,
+				572EE3AD19E05E8E00793920 /* 30min.png */,
+				572EE3AE19E05E8E00793920 /* 35min.png */,
+				572EE3AF19E05E8E00793920 /* 40min.png */,
+				572EE3B019E05E8E00793920 /* 45min.png */,
+				572EE3B119E05E8E00793920 /* 50min.png */,
+				572EE3B219E05E8E00793920 /* 55min.png */,
+				572EE3B319E05E8E00793920 /* O.png */,
+				572EE3B419E05E8E00793920 /* reset.png */,
+				572EE3B519E05E8E00793920 /* test.png */,
+				572EE3A419E05A1800793920 /* 3min.png */,
+				572EE3A519E05A1800793920 /* 5min.png */,
 				57D8F60E19DEA48200C1D0D9 /* AppDelegate.h */,
 				57D8F60F19DEA48200C1D0D9 /* AppDelegate.m */,
 				57D8F61119DEA48200C1D0D9 /* Main.storyboard */,
@@ -199,6 +275,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "一平";
 				TargetAttributes = {
+					57D8F5FB19DEA48200C1D0D9 = {
+						DevelopmentTeam = 6Q4F9UGF8G;
+					};
 					57D8F61C19DEA48200C1D0D9 = {
 						TestTargetID = 57D8F5FB19DEA48200C1D0D9;
 					};
@@ -229,8 +308,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				57D8F61819DEA48200C1D0D9 /* Images.xcassets in Resources */,
+				57F2B8DA19EA4BF60016B765 /* アイコン.png in Resources */,
+				57FED9A119E1748100BA33B2 /* aikon2.png in Resources */,
+				572EE3C119E05E8E00793920 /* O.png in Resources */,
+				572EE3C319E05E8E00793920 /* test.png in Resources */,
 				57D8F60A19DEA48200C1D0D9 /* InfoPlist.strings in Resources */,
+				572EE3A619E05A1800793920 /* 3min.png in Resources */,
+				572EE3B619E05E8E00793920 /* 1hour.png in Resources */,
+				572EE3B719E05E8E00793920 /* 10min.png in Resources */,
+				572EE3B819E05E8E00793920 /* 15min.png in Resources */,
+				57FED9A319E1752C00BA33B2 /* Balloons.png in Resources */,
+				572EE3BB19E05E8E00793920 /* 30min.png in Resources */,
+				572EE3BC19E05E8E00793920 /* 35min.png in Resources */,
+				579F4AB919E7E314002B151E /* 1min.png in Resources */,
+				572EE3BE19E05E8E00793920 /* 45min.png in Resources */,
+				572EE3C219E05E8E00793920 /* reset.png in Resources */,
+				57DF2D7A19E7F2A7009CAB4B /* tottori.png in Resources */,
+				572EE3BA19E05E8E00793920 /* 25min.png in Resources */,
+				572EE3BF19E05E8E00793920 /* 50min.png in Resources */,
+				572EE3A719E05A1800793920 /* 5min.png in Resources */,
+				572EE3BD19E05E8E00793920 /* 40min.png in Resources */,
+				572EE3B919E05E8E00793920 /* 20min.png in Resources */,
+				578D12081A17655F008C184D /* note.jpg in Resources */,
+				572EE3C019E05E8E00793920 /* 55min.png in Resources */,
+				578D12001A175E8D008C184D /* pon.mp3 in Resources */,
 				57D8F61319DEA48200C1D0D9 /* Main.storyboard in Resources */,
+				57FED99B19E16EA100BA33B2 /* syabobo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -376,10 +479,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timer2/timer2-Prefix.pch";
 				INFOPLIST_FILE = "timer2/timer2-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -389,10 +495,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "timer2/timer2-Prefix.pch";
 				INFOPLIST_FILE = "timer2/timer2-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +565,7 @@
 				57D8F63019DEA48200C1D0D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		57D8F63119DEA48200C1D0D9 /* Build configuration list for PBXNativeTarget "timer2Tests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +574,7 @@
 				57D8F63319DEA48200C1D0D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
